@@ -1,0 +1,7 @@
+{
+  "queue_name": "?",
+  "job_name": "?",
+  "processor": "4",
+  "max_memory": "4000",
+  "resrc_requirement": "rusage[mem=4000]"
+}
